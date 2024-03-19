@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 4473609 */
+    src: url('//at.alicdn.com/t/c/font_4473609_5h77efur14c.woff2?t=1710847841272') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4473609_5h77efur14c.woff?t=1710847841272') format('woff'),
+         url('//at.alicdn.com/t/c/font_4473609_5h77efur14c.ttf?t=1710847841272') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-a-duankouduomeiti:before {
+    content: "\e653";
+  }
+  
+  
